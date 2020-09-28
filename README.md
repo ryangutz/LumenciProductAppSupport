@@ -1,5 +1,5 @@
 # Lumenci Product App Support
 
-If you experience any errors with the Lumenci Product App, you can contact:
+If you experience any issues with the Lumenci Product App, please contact:
 
 Email: rbg.lumenci@gmail.com
